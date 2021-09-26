@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dwho-o&label=Profile%20views&color=0e75b6&style=flat" alt="mayribeirofernandes" /> </p>
 
-<!--
-**Dwho-O/Dwho-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="350" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
 
-Here are some ideas to get you started:
+# Olá! Sou João Paulo!👋
+## 👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Em 2019 dei início a minha busca pelo conhecimento na área de Tecnologia da Informação através da Etec ETEC Dr. Emílio Hernandez Aguilar a qual foi desenvolvido as competências para atuação em PHP, Java, Banco de Dados, C, Csharp e Desenvolvimento Mobile. Em 2021, ingressei na Faculdade de Tecnologia Deputado Ary Fossen em Análise e Desenvolvimento de Sistemas.
+Interesse profissional em Cyber Segurança e QA - Testes mobile, software e browser. 
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dwho/)[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Dwho0)
+
+## 💻 Tecnologias
+
+<p align="left"> <a href="https://robotframework.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="robot framework" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+## 📝 Blog
+- [Em breve](#)
+  
+## 📚 Publicações
+- [Em breve](#)
