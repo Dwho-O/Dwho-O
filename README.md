@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dwho-o&label=Profile%20views&color=0e75b6&style=flat" alt="mayribeirofernandes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dwho-o&label=Profile%20views&color=0e75b6&style=flat" alt="João Paulo" /> </p>
 
 <img align="right" width="350" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
 
