@@ -5,7 +5,7 @@
 # Olá! Sou João Paulo!👋
 ## 👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-Em 2019 dei início a minha busca pelo conhecimento na área de Tecnologia da Informação através da Etec ETEC Dr. Emílio Hernandez Aguilar a qual foi desenvolvido as competências para atuação em PHP, Java, Banco de Dados, C, Csharp e Desenvolvimento Mobile. Em 2021, ingressei na Faculdade de Tecnologia Deputado Ary Fossen em Análise e Desenvolvimento de Sistemas.
+Em 2019, dei o primeiro passo em busca do conhecimento na área de Tecnologia da Informação através da ETEC Dr. Emílio Hernandez Aguilar a qual foi desenvolvido as competências para atuação em PHP, Java, Banco de Dados, C, Csharp e Desenvolvimento Mobile. Em 2021, ingressei na Faculdade de Tecnologia Deputado Ary Fossen em Análise e Desenvolvimento de Sistemas. 
 Interesse profissional em Cyber Segurança e QA - Testes mobile, software e browser. 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dwho/)[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Dwho0)
