@@ -18,4 +18,4 @@ Interesse profissional em Cyber Segurança e QA - Testes mobile, software e brow
 - [Oficina de Python](https://github.com/Dwho-O/certificados)
   
 ## 📚 Publicações
-- [Em breve](#)
+- [Automações](https://github.com/Dwho-O/automacao)
