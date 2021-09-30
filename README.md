@@ -10,14 +10,6 @@ Interesse profissional em Cyber Segurança e QA - Testes mobile, software e brow
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dwho/)[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Dwho0)
 
-  <div align="center">
-  <a href="https://github.com/Dwho-0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dwho-o&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwho-o&theme=blue-green"/>
-</a>
-</div>
-
-
 ## 💻 Tecnologias
 
 <p align="left"> <a href="https://robotframework.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="robot framework" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
