@@ -14,7 +14,7 @@ Interesse profissional em Cyber Segurança e QA - Testes mobile, software e brow
 
 <p align="left"> <a href="https://robotframework.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="robot framework" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-## 📝 Certificados(Extra Curricúlar)
+## 📝 Certificados(ExtraCurricular)
 - [Oficina de Python](https://github.com/Dwho-O/certificados)
   
 ## 📚 Publicações
