@@ -15,11 +15,12 @@ Interesse profissional em Cyber Segurança e QA - Testes mobile, software e brow
 <p align="left"> <a href="https://robotframework.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="robot framework" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 ## 📝 Certificados(ExtraCurricular)
-- [Oficina de Python](https://github.com/Dwho-O/certificados)
+- [Certificados Cursos](https://github.com/Dwho-O/certificados)
   
 ## 📚 Publicações
-- [Automações](https://github.com/Dwho-O/automacao)
-- [Java](https://github.com/Dwho-O/java)
-- [Javascript](https://github.com/Dwho-O/javascript)
-- [Python](https://github.com/Dwho-O/Python)  
-  
+- [Automações](https://github.com/Dwho-O/automacao) (Destinado a testes de automação de Web e API)
+- [Java](https://github.com/Dwho-O/java) (Destinado a projetos em Java)
+- [Javascript](https://github.com/Dwho-O/javascript) (Destinado a projetos em JavaScript)
+- [Python](https://github.com/Dwho-O/Python) (Destinado a projetos em Python)
+- [Laravel](https://github.com/Dwho-O/manga-project-laravel) (Projeto com o framework laravel)
+- [BrothersBurguer](https://github.com/Dwho-O/brothersburguers) (Projeto com HTML, PHP, CSS, Banco de Dados, JavaScript,..)
