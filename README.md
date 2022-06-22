@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwho-o&label=Profile%20views&color=0e75b6&style=flat" alt="João Paulo" /> </p>
 
-<img align="right" width="350" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
+<img align="right" width="350" src="(https://w7.pngwing.com/pngs/1019/258/png-transparent-web-development-source-code-computer-programming-computer-icons-html-coding-miscellaneous-angle-text.png)"/>
 
 # Olá! Sou João Paulo!👋
 ## 👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas
